@@ -12,6 +12,7 @@ dist/
 downloads/
 eggs/
 .eggs/
+lib64/
 sdist/
 var/
 wheels/
